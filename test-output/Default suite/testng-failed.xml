@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.demoblaze.DemoBlazeTest">
+        <methods>
+          <include name="addToCart"/>
+          <include name="logoutTest"/>
+          <include name="placeOrderWithLogin"/>
+          <include name="tearDown"/>
+          <include name="verifyCartProduct"/>
+          <include name="viewProduct"/>
+          <include name="setup"/>
+          <include name="placeOrderWithoutLogin"/>
+        </methods>
+      </class> <!-- com.demoblaze.DemoBlazeTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
