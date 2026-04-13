@@ -19,20 +19,20 @@ The project demonstrates both manual and automation testing practices to validat
 ├── .classpath                          # Eclipse classpath configuration
 ├── .project                            # Eclipse project configuration
 ├── BUG REPORT.xlsx                     # Documented defects
-├── TEST_PLAN_DEMOBLAZE.docx            # Test plan document
-├── TEST_REPORT_DEMOBLAZE.docx          # Test execution report
+├── TEST PLAN_DEMOBLAZE.docx            # Test plan document
+├── TEST REPORT_DEMOBLAZE.docx          # Test execution report
 ├── TESTCASES_DEMOBLAZE.xlsx            # Test cases
-├── UPDATED_TESTCASES_REGRESSION.xlsx   # Updated Testcases after regression testing
+├── UPDATED TESTCASES_REGRESSION.xlsx   # Updated Testcases after regression testing
 ├── pom.xml                             # Maven configuration file
 ├── testng.xml                          # TestNG suite configuration
 ├── LICENSE                             # Repository License information
 └── README.md                           # Project documentation
 
----
+```
 
 ## Repository Contents
 
-- TEST_PLAN_DEMOBLAZE (.docx)  
+- TEST PLAN_DEMOBLAZE (.docx)  
   Test planning document including scope, strategy, environment, and risks.
 
 - TESTCASES_DEMOBLAZE (.xlsx)
@@ -41,13 +41,13 @@ The project demonstrates both manual and automation testing practices to validat
 - BUG REPORT (.xlsx)
   Defects logged based on failed test cases with severity and priority.
 
-- UPDATED_TESTCASES_REGRESSION (.xlsx) 
+- UPDATED TESTCASES_REGRESSION (.xlsx) 
   Failed test cases re-executed after fixes with updated results and status.
 
-- TEST_REPORT_DEMOBLAZE  (.docx) 
+- TEST REPORT_DEMOBLAZE  (.docx) 
   Test metrics, execution summary, defect analysis, and final closure report.
 
----
+```
 
 ## Author
 
