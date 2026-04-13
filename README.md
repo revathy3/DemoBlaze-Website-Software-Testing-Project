@@ -11,6 +11,7 @@ The project demonstrates both manual and automation testing practices to validat
 
 ## Project Structure
 
+```
 ├── .settings/                          # IDE configuration files
 ├── SCREENSHOTS/                        # Test execution evidence and results
 ├── src/test/java/com/demoblaze/        # Automation test scripts (TestNG - Java)
@@ -27,8 +28,8 @@ The project demonstrates both manual and automation testing practices to validat
 ├── testng.xml                          # TestNG suite configuration
 ├── LICENSE                             # Repository License information
 └── README.md                           # Project documentation
-
 ```
+---
 
 ## Repository Contents
 
@@ -47,7 +48,7 @@ The project demonstrates both manual and automation testing practices to validat
 - TEST REPORT_DEMOBLAZE  (.docx) 
   Test metrics, execution summary, defect analysis, and final closure report.
 
-```
+---
 
 ## Author
 
